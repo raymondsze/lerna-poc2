@@ -1,7 +1,6 @@
 {
   "name": "moon",
   "version": "1.0.0",
-  "private": true,
   "author": "Raymond Sze <raymond@fano.ai>",
   "license": "MIT",
   "main": "./index.js",
