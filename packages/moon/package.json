@@ -1,6 +1,6 @@
 {
   "name": "moon",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "author": "Raymond Sze <raymond@fano.ai>",
   "license": "MIT",
   "main": "./index.js",
@@ -8,6 +8,6 @@
     "test": "exit 0"
   },
   "devDependencies": {
-    "sky": "^1.0.0"
+    "sky": "^0.0.1"
   }
 }
