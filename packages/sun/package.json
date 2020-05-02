@@ -1,6 +1,6 @@
 {
   "name": "sun",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Raymond Sze <raymond@fano.ai>",
   "license": "MIT",
   "main": "./index.js",
@@ -8,6 +8,6 @@
     "test": "exit 0"
   },
   "devDependencies": {
-    "sky": "^0.0.1"
+    "sky": "^0.1.0"
   }
 }
