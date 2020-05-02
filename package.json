@@ -13,16 +13,5 @@
   "devDependencies": {
     "lerna": "^3.6.0",
     "lerna-changelog": "^1.0.1"
-  },
-  "changelog": {
-    "repo": "lerna/lerna-changelog",
-    "labels": {
-      "breaking": ":boom: Breaking Change",
-      "enhancement": ":rocket: Enhancement",
-      "bug": ":bug: Bug Fix",
-      "documentation": ":memo: Documentation",
-      "internal": ":house: Internal"
-    },
-    "cacheDir": ".changelog"
   }
 }
