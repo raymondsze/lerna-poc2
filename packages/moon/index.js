@@ -1,3 +1,3 @@
-conosle.log(require('sky'));
+require('sky');
 
 module.exports = "Moon";
