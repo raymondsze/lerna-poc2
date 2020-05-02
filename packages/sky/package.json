@@ -1,0 +1,10 @@
+{
+  "name": "sky",
+  "version": "1.0.0",
+  "author": "Raymond Sze <raymond@fano.ai>",
+  "license": "MIT",
+  "main": "./index.js",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
