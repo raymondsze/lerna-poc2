@@ -1,1 +1,1 @@
-module.exports = "Sky";
+module.exports = "Sky2";
